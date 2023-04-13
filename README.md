@@ -5,7 +5,12 @@
 
 <image align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=al4fgdsp5hCYeA&pid=ImgRaw&r=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid-0&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-0" /> </p>
+### Glad to see you here! &nbsp! <img src="https://komarev.com/ghpvc/?username=shahid-0&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-0" />
+
+As an AI Engineer, Python Developer, and Full Stack Developer, I innovate with these technologies 
+every day. I enjoy learning new tools and conducting research in the AI field. Passionate about solving 
+real-world skills. Research and learning are my hobby because it helps me in improving my skills and 
+thinking in diversified ways.
 
 <p align="left"> <a href="https://twitter.com/shahid_50k" target="blank"><img src="https://img.shields.io/twitter/follow/shahid_50k?logo=twitter&style=for-the-badge" alt="shahid_50k" /></a> </p>
 
