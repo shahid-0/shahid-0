@@ -5,7 +5,7 @@
 
 <image align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=al4fgdsp5hCYeA&pid=ImgRaw&r=0">
 
-### Glad to see you here! &nbsp! <img src="https://komarev.com/ghpvc/?username=shahid-0&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-0" />
+### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=shahid-0&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-0" />
 
 As an AI Engineer, Python Developer, and Full Stack Developer, I innovate with these technologies 
 every day. I enjoy learning new tools and conducting research in the AI field. Passionate about solving 
