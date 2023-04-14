@@ -6,7 +6,7 @@
 
 I worked on various projects and with a variety of technologies. I'm flexibe enought to adapt to any environment, and together with my problem-solver thought, I can be a good fit for any team.
 
-I have a bachelor's degree in Computer Science. I'm my second year of college (2021), I was already working for a group of companies in the United States, which shows my dedication and interest in becoming a different software engineer.
+I have a bachelor's degree in Computer Science. In my second year of college (2021), I was already working for a group of companies in the United States, which shows my dedication and interest in becoming a different software engineer.
 
 I consider myself always an apprentice. I aim to teach you whatever I know and I also want to learn from you.
 
@@ -21,16 +21,14 @@ I consider myself always an apprentice. I aim to teach you whatever I know and I
 
 At LOOFT, we use this techs:
 
-- Python / Sikit-learn / Tensorflow 
+- Python / Scikit-learn / Tensorflow 
 - Pandas / Numpy / Matplotlib / Seaborn
 - AWS
-- Write Reports
-- Read Research Papers 
 
 In my previous experiences, I focused mainly in:
 
 - Node.js / Javascript / Python
-- React.js / Next.js / TailwindCSS / Material UI / Styled Components
+- React.js / TailwindCSS / Material UI / Styled Components
 - PostgreSQL / MySQL / Redis / AWS Dynamodb
 - Docker
 
